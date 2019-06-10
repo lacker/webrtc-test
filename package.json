@@ -1,0 +1,23 @@
+{
+  "name": "webrtc-test",
+  "version": "0.0.1",
+  "description": "A small utility for testing webrtc networking on your machine.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lacker/webrtc-test.git"
+  },
+  "author": "Kevin Lacker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lacker/webrtc-test/issues"
+  },
+  "homepage": "https://github.com/lacker/webrtc-test#readme",
+  "dependencies": {
+    "simple-peer": "^9.3.0",
+    "wrtc": "^0.4.1"
+  }
+}
